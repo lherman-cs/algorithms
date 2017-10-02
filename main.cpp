@@ -2,6 +2,7 @@
 #include <fstream>
 #include <cstdlib>
 #include <algorithm>
+#include <string>
 #include <assert.h>
 
 #include "bst.h"
